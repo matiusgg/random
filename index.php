@@ -17,7 +17,7 @@
             <h1>Random people selector</h1>
         </header>
 
-hola jjjj
+Comprobacion
 
     </div>
 
